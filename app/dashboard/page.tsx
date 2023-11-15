@@ -1,5 +1,5 @@
 export default function page() {
   return (
-    <div>Dashboard</div>
+    <div>Esta página es el contenido del dashboard</div>
   )
 }
